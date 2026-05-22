@@ -114,15 +114,14 @@ public class TrinankurSamanta implements BackendDeveloper {
 <!-- 🎨 CUSTOMIZE: Replace "zicots7" with your actual username in all stat URLs -->
 
 <div align="center">
+<!-- Stats Card -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zicots7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6db33f&icon_color=6db33f&text_color=c4d4e8&ring_color=6db33f&count_private=true&cache_seconds=86400&v=1" alt="GitHub Stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zicots7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6db33f&icon_color=6db33f&text_color=c4d4e8&ring_color=6db33f&count_private=true" alt="Trinankur's GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicots7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6db33f&text_color=c4d4e8&langs_count=6" alt="Top Languages"/>
+<!-- Top Languages Card -->
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicots7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6db33f&text_color=c4d4e8&langs_count=6&cache_seconds=86400&v=1" alt="Top Languages"/>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=zicots7&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=6db33f&fire=6db33f&currStreakLabel=6db33f&sideLabels=c4d4e8&dates=52708f)](https://git.io/streak-stats)
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=zicots7&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=6db33f&fire=6db33f&currStreakLabel=6db33f&sideLabels=c4d4e8&dates=52708f&v=1)](https://git.io/streak-stats)
 
 </div>
 
