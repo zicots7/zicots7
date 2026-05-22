@@ -12,7 +12,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/zicots7?style=flat-square&color=6db33f&labelColor=0d1420)](https://github.com/zicots7?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-trinankur--s-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/trinankur-s/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/1q5NKG6)
-[![Portfolio](https://img.shields.io/badge/Portfolio-zicots7.github.io-6db33f?style=flat-square)](https://zicots7.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zicots7.github.io-6db33f?style=flat-square)](https://zicots7.github.io/zicots7/)
 
 </div>
 
@@ -157,7 +157,7 @@ public class TrinankurSamanta implements BackendDeveloper {
 [![Email](https://img.shields.io/badge/Email-trinankursamanta007%40gmail.com-6db33f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trinankursamanta007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-trinankur--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trinankur-s/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/1q5NKG6)
-[![Portfolio](https://img.shields.io/badge/Portfolio-alexchen.dev-6db33f?style=for-the-badge)](https://zicots7.github.io/zicots7/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zicots7.github.io-6db33f?style=flat-square)](https://zicots7.github.io/zicots7/)
 </div>
 
 ---
