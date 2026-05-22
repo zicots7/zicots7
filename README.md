@@ -112,15 +112,14 @@ public class TrinankurSamanta implements BackendDeveloper {
 ## 📊 GitHub Stats
 
 <!-- 🎨 CUSTOMIZE: Replace "zicots7" with your actual username in all stat URLs -->
-
-### 📊 GitHub Analytics
 <div align="center">
 
 <!-- Main Stats Card (with cache buster) -->
 <img src="https://github-readme-stats.vercel.app/api?username=zicots7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6db33f&icon_color=6db33f&text_color=c4d4e8&ring_color=6db33f&count_private=true&v=2" alt="GitHub Stats"/>
 
 <!-- Top Languages (ensure you have public code repos!) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicots7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6db33f&text_color=c4d4e8&langs_count=6&v=2" alt="Top Languages"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicots7&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6&v=3" alt="Top Languages"/>
 
 <!-- Streak Card -->
 <img src="https://streak-stats.demolab.com?user=zicots7&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=6db33f&fire=6db33f&currStreakLabel=6db33f&sideLabels=c4d4e8&dates=52708f&v=2" alt="GitHub Streak"/>
