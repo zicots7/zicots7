@@ -101,7 +101,7 @@ public class TrinankurSamanta implements BackendDeveloper {
 
 | Project | Live | Description | Tools |
 |---------|------|-------------|-------|
-| [🤖 AI Freelancer Assistant](https://github.com/zicots7/Ai-Freelancer-Assistant-) | 3 Spring Boot microservices using Google Gemini AI · Smart Proposal Generator · Invoice Dispute Analyzer · Swagger/OpenAPI · Docker + K8s | `Java` `Spring Boot` `Gemini AI` `Docker` `K8s` |
+| [🤖 AI Freelancer Assistant](https://github.com/zicots7/Ai-Freelancer-Assistant-)|[None] | 3 Spring Boot microservices using Google Gemini AI · Smart Proposal Generator · Invoice Dispute Analyzer · Swagger/OpenAPI · Docker + K8s | `Java` `Spring Boot` `Gemini AI` `Docker` `K8s` |
 | [💼 Freelancer Project & Payment Tracker](https://github.com/zicots7/FreelanceProjectsAndPaymentsTracker)|[Live](https://freelancetracker.onrender.com/) | Multi-role platform · PDF invoice microservice · Dual-DB (PostgreSQL + MongoDB) · GitHub Actions CI/CD · 40% smaller Docker images | `Java` `Spring Boot` `PostgreSQL` `MongoDB` `GitHub Actions` |
 | [🎓 College Event & Resource Management](https://github.com/zicots7/CollegeEventAndResourceManagementSystem)|[Live](https://collegeeventsandresourcesmanager.onrender.com/) | Three-tier role system (Students/Faculty/Admin) · Tag-based MongoDB resource search · Kubernetes orchestration | `Java` `Spring Boot` `MongoDB` `Kubernetes` `Bootstrap` |
 
