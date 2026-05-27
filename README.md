@@ -12,8 +12,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/zicots7?style=flat-square&color=6db33f&labelColor=0d1420)](https://github.com/zicots7?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-trinankur--s-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/trinankur-s/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-zicots7.github.io-6db33f?style=flat-square)](https://zicots7.github.io/zicots7/)
-[![LeetCode](https://img.shields.io/badge/Portfolio-zicots7.github.io-6db33f?style=flat-square)](https://leetcode.com/u/zico7/)
-[![Resume](https://img.shields.io/badge/Resume-zicots7.github.io-6db33f?style=flat-square)](https://drive.google.com/file/d/1TNxDvpe0PMRRzJ3s5oVInWuNHb17MUQj/view?usp=sharing)
+[![LeetCode](https://img.shields.io/badge/LeetCode-zico7-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/zico7/)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-red?style=flat-square&logo=googledrive)](https://drive.google.com/file/d/1TNxDvpe0PMRRzJ3s5oVInWuNHb17MUQj/view?usp=sharing)
 </div>
 
 ---
@@ -156,8 +156,8 @@ public class TrinankurSamanta implements BackendDeveloper {
 [![Email](https://img.shields.io/badge/Email-trinankursamanta007%40gmail.com-6db33f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trinankursamanta007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-trinankur--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trinankur-s/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-zicots7.github.io-6db33f?style=flat-square)](https://zicots7.github.io/zicots7/)
-[![LeetCode](https://img.shields.io/badge/Portfolio-zicots7.github.io-6db33f?style=flat-square)](https://leetcode.com/u/zico7/)
-[![Resume](https://img.shields.io/badge/Resume-zicots7.github.io-6db33f?style=flat-square)](https://drive.google.com/file/d/1TNxDvpe0PMRRzJ3s5oVInWuNHb17MUQj/view?usp=sharing)
+[![LeetCode](https://img.shields.io/badge/LeetCode-zico7-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/zico7/)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-red?style=flat-square&logo=googledrive)](https://drive.google.com/file/d/1TNxDvpe0PMRRzJ3s5oVInWuNHb17MUQj/view?usp=sharing)
 </div>
 
 ---
