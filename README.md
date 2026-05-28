@@ -26,12 +26,13 @@
 public class TrinankurSamanta implements BackendDeveloper {
 
     private final String name        = "Trinankur Samanta";
-    private final String location    = "West Bengal, India 🇮🇳";
+    private final String location    = "Bankura, 722101, West Bengal, India 🇮🇳";
     private final String role        = "Java Backend Developer";
     private final String education   = "MCA @ Kazi Nazrul University (2025–2027)";
 
     private final List<String> expertise = List.of(
         "Spring Boot Microservices",
+        "System Design",
         "Docker & Kubernetes Deployments",
         "CI/CD via GitHub Actions",
         "REST API Design & Swagger/OpenAPI",
@@ -41,7 +42,8 @@ public class TrinankurSamanta implements BackendDeveloper {
     private final List<String> currentlyLearning = List.of(
         "Spring AI & Google Gemini Integration",
         "GitOps with ArgoCD",
-        "GraalVM Native Compilation"
+        "React js"
+        "Redis Caching"
     );
 
     private final String seekingRoles = "Junior Java Backend Developer";
@@ -132,7 +134,7 @@ public class TrinankurSamanta implements BackendDeveloper {
 | Degree | Institution | Period |
 |--------|------------|--------|
 | 🎓 Master of Computer Applications (MCA) | Kazi Nazrul University, Asansol, WB | Dec 2025 — Aug 2027 |
-| 📚 Bachelor of Computer Applications — BCA (Hons.) | The University of Burdwan, WB | Aug 2021 — Oct 2024 |
+| 📚 Bachelor of Computer Applications — BCA (Hons.) — 73.81% — | The University of Burdwan, WB | Aug 2021 — Oct 2024 |
 
 ---
 
