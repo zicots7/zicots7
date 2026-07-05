@@ -39,14 +39,16 @@ public class TrinankurSamanta implements BackendDeveloper {
         "Dual-DB Architecture (PostgreSQL + MongoDB)"
     );
 
-    private final List<String> currentlyLearning = List.of(
+    private final List<String> currentlyAdvancing = List.of(
         "Spring AI & Google Gemini Integration",
         "GitOps with ArgoCD",
-        "React js"
-        "Redis Caching"
+        "React with TypeScript",
+        "Redis Caching",
+        "Spring Security",
+         "Spring Cloud",
     );
 
-    private final String seekingRoles = "Junior Java Backend Developer";
+    private final String seekingRoles = "Junior/Fresher Java Full Stack Developer";
 
     @Override
     public String motto() {
