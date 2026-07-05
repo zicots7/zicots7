@@ -78,7 +78,7 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -124,7 +124,7 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
 | Project | Live | Description | Tools |
 |---------|------|-------------|-------|
 | [ AI Freelancer Assistant](https://github.com/zicots7/Ai-Freelancer-Assistant-)|[None] | 3 Spring Boot microservices using Google Gemini AI · Smart Proposal Generator · Invoice Dispute Analyzer · Milestone Risk Predictor · Swagger/OpenAPI  Documentation · Docker + K8s | `Java` `Spring Boot` `Gemini AI` `Docker` `K8s` |
-| [ FCPT (Freelance Clients and Payments Tracker)](https://github.com/zicots7/FCPT-)|[None] | Full Stack web app . Payments tracker . Automatic invoice generation Microservice . Projects Management . CLient Management . Milestone Management . Conversation Logs · Swagger/OpenAPI Documentation · | `Java` `Spring Boot` `REST APIs` `Microservice` `React` `TypeScript` `Docker` `K8s` `Git/Github` `Git Actions` `CI/CD pipeline` `Git Actions` |
+| [ FCPT (Freelance Clients and Payments Tracker)](https://github.com/zicots7/FCPT)|[None] | Full Stack web app . Payments tracker . Automatic invoice generation Microservice . Projects Management . CLients Management . Milestones Management . Conversation Logs · Swagger/OpenAPI Documentation · | `Java` `Spring Boot` `REST APIs` `Microservice` `React` `TypeScript` `Docker` `K8s` `Git/Github` `Git Actions` `CI/CD pipeline` `Git Actions` |
 > 🔗 View all projects → [github.com/zicots7](https://github.com/zicots7)
 
 ---
