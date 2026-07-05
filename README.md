@@ -23,11 +23,11 @@
 <!-- 🎨 CUSTOMIZE: Update the Java class block with your details -->
 ```java
 @Component
-public class TrinankurSamanta implements BackendDeveloper {
+public class TrinankurSamanta implements JavaFullStackDeveloper {
 
     private final String name        = "Trinankur Samanta";
     private final String location    = "Bankura, 722101, West Bengal, India 🇮🇳";
-    private final String role        = "Java Backend Developer";
+    private final String role        = "Java Full Stack Developer";
     private final String education   = "MCA @ Kazi Nazrul University (2025–2027)";
 
     private final List<String> expertise = List.of(
@@ -45,7 +45,7 @@ public class TrinankurSamanta implements BackendDeveloper {
         "React with TypeScript",
         "Redis Caching",
         "Spring Security",
-         "Spring Cloud",
+        "Spring Cloud",
     );
 
     private final String seekingRoles = "Junior/Fresher Java Full Stack Developer";
