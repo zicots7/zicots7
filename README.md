@@ -3,7 +3,7 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║  🎨 CUSTOMIZE: Change the font, size, color, and lines below ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=6DB33F&center=true&vCenter=true&width=680&lines=Java+Full+Stack+Developer;React+%7C++Microservices+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+%7C+REST+APIs;Open+to+Freshers+Full+Stack+Developer+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=6DB33F&center=true&vCenter=true&width=680&lines=Java+Full+Stack+Developer;React+%7C+TypeScript+%7C+Microservices+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+%7C+REST+APIs;Open+to+Freshers+Full+Stack+Developer+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -42,7 +42,7 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
     private final List<String> currentlyAdvancing = List.of(
         "Spring AI & Google Gemini Integration",
         "GitOps with ArgoCD",
-        "React",
+        "React with TypeScript",
         "Redis Caching",
         "Spring Security",
         "Spring Cloud",
@@ -78,7 +78,7 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=flat-square&logo=javascript&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -124,7 +124,7 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
 | Project | Live | Description | Tools |
 |---------|------|-------------|-------|
 | [ AI Freelancer Assistant](https://github.com/zicots7/Ai-Freelancer-Assistant-)|[None] | 3 Spring Boot microservices using Google Gemini AI · Smart Proposal Generator · Invoice Dispute Analyzer · Milestone Risk Predictor · Swagger/OpenAPI  Documentation · Docker + K8s | `Java` `Spring Boot` `Gemini AI` `Docker` `K8s` |
-| [ FCPT (Freelance Clients and Payments Tracker)](https://github.com/zicots7/FCPT)|[None] | Full Stack web app . Payments tracker . Automatic invoice generation Microservice . Projects Management . CLients Management . Milestones Management . Conversation Logs · Swagger/OpenAPI Documentation · | `Java` `Spring Boot` `REST APIs` `Microservice` `React` `Docker` `K8s` `Git/Github` `Git Actions` `CI/CD pipeline` `Git Actions` |
+| [ FCPT (Freelance Clients and Payments Tracker)](https://github.com/zicots7/FCPT)|[None] | Full Stack web app . Payments tracker . Automatic invoice generation Microservice . Projects Management . CLients Management . Milestones Management . Conversation Logs · Swagger/OpenAPI Documentation · | `Java` `Spring Boot` `REST APIs` `Microservice` `React` `TypeScript` `Docker` `K8s` `Git/Github` `Git Actions` `CI/CD pipeline` `Git Actions` |
 > 🔗 View all projects → [github.com/zicots7](https://github.com/zicots7)
 
 ---
