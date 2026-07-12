@@ -152,7 +152,7 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
 | Degree | Institution | Period |
 |--------|------------|--------|
 | 🎓 Master of Computer Applications (MCA) | Kazi Nazrul University, Asansol, WB | Dec 2025 — Aug 2027 |
-| 🎓 Master of Science in Data Science (MSc Data Science) | Distance/Online | Chandigarh University, Mohali, Punjab | Jun 2025 — July 2027 |
+| 🎓 Master of Science in Data Science (MSc Data Science)-Distance/Online Mode | Chandigarh University, Mohali, Punjab | Jun 2025 — July 2027 |
 | 📚 Bachelor of Computer Applications — BCA (Hons.) — 73.81% — | The University of Burdwan, WB | Aug 2021 — Oct 2024 |
 
 ---
