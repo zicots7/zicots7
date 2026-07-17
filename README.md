@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  🎨 CUSTOMIZE: Change the font, size, color, and lines below ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<!--  CUSTOMIZE: Change the font, size, color, and lines below  -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=6DB33F&center=true&vCenter=true&width=680&lines=Java+Full+Stack+Developer;React+%7C+TypeScript+%7C+Microservices+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+%7C+REST+APIs;Open+to+Freshers+Full+Stack+Developer+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- 🎨 CUSTOMIZE: Add/remove badges here -->
+<!--  CUSTOMIZE: Add/remove badges here -->
 ![Profile Views](https://komarev.com/ghpvc/?username=zicots7&color=6db33f&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/zicots7?style=flat-square&color=6db33f&labelColor=0d1420)](https://github.com/zicots7?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-trinankur--s-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/trinankur-s/)
@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-<!-- 🎨 CUSTOMIZE: Update the Java class block with your details -->
+<!--  CUSTOMIZE: Update the Java class block with your details -->
 ```java
 @Component
 public class TrinankurSamanta implements JavaFullStackDeveloper {
@@ -31,20 +31,22 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
     private final String education   = "MCA @ Kazi Nazrul University (2025–2027)";
 
     private final List<String> expertise = List.of(
+        "Core Java"
         "Spring Boot Microservices",
         "System Design",
         "Docker & Kubernetes Deployments",
         "CI/CD via GitHub Actions",
-        "REST API Design & Swagger/OpenAPI",
-        "Dual-DB Architecture (PostgreSQL + MongoDB)"
-    );
-
-    private final List<String> currentlyAdvancing = List.of(
-        "Spring AI & Google Gemini Integration",
-        "GitOps with ArgoCD",
         "React with TypeScript",
         "Redis Caching",
         "Spring Security",
+        "REST API Design & Swagger/OpenAPI",
+        "Dual-DB Architecture (PostgreSQL + MongoDB)"
+        "Spring AI & Google Gemini Integration",
+    );
+
+    private final List<String> currentlyAdvancing = List.of(
+
+        "GitOps with ArgoCD",
         "Spring Cloud",
     );
 
@@ -61,7 +63,7 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
 
 ## 🛠 Tech Stack
 
-<!-- 🎨 CUSTOMIZE: Add/remove badges — find more at https://shields.io -->
+<!--  CUSTOMIZE: Add/remove badges — find more at https://shields.io -->
 
 ### ☕ Core Backend
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -124,14 +126,14 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
 | Project | Live | Description | Tools |
 |---------|------|-------------|-------|
 | [ AI Freelancer Assistant](https://github.com/zicots7/Ai-Freelancer-Assistant-)|[None] | 3 Spring Boot microservices using Google Gemini AI · Smart Proposal Generator · Invoice Dispute Analyzer · Milestone Risk Predictor · Swagger/OpenAPI  Documentation · Docker + K8s | `Java` `Spring Boot` `Gemini AI` `Docker` `K8s` |
-| [ FCPT (Freelance Clients and Payments Tracker)](https://github.com/zicots7/FCPT)|[None] | Full Stack web app . Payments tracker . Automatic invoice generation Microservice . Projects Management . CLients Management . Milestones Management . Conversation Logs · Swagger/OpenAPI Documentation · | `Java` `Spring Boot` `REST APIs` `Microservice` `React` `TypeScript` `Docker` `K8s` `Git/Github` `Git Actions` `CI/CD pipeline` `Git Actions` |
+| [ FCPT (Freelance Clients and Payments Tracker)](https://github.com/zicots7/FCPT)|[None] | Full Stack web app . Payments tracker . Automatic invoice generation Microservice . Projects Management . Clients Management . Milestones Management . Conversation Logs · Swagger/OpenAPI Documentation · | `Java` `Spring Boot` `REST APIs` `Microservice` `React` `TypeScript` `Docker` `K8s` `Git/Github` `Git Actions` `CI/CD pipeline` `Git Actions` `Redis` `MongoDB` `PostgreSQL` |
 > 🔗 View all projects → [github.com/zicots7](https://github.com/zicots7)
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- 🎨 CUSTOMIZE: Replace "zicots7" with your actual username in all stat URLs -->
+<!--  CUSTOMIZE: Replace "zicots7" with your actual username in all stat URLs -->
 <div align="center">
 
 <!-- Main Stats Card (with cache buster) -->
@@ -159,7 +161,7 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
 
 ## 🏆 Certifications
 
-<!-- 🎨 CUSTOMIZE: Add more certifications as you earn them -->
+<!--  CUSTOMIZE: Add more certifications as you earn them -->
 
 | Badge | Certification | Platform |
 |-------|--------------|---------|
@@ -173,7 +175,7 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
 
 <div align="center">
 
-<!-- 🎨 CUSTOMIZE: Update email and profile URLs -->
+<!--  CUSTOMIZE: Update email and profile URLs -->
 [![Email](https://img.shields.io/badge/Email-trinankursamanta007%40gmail.com-6db33f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trinankursamanta007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-trinankur--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trinankur-s/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-zicots7.github.io-6db33f?style=flat-square)](https://zicots7.github.io/zicots7/)
