@@ -45,13 +45,11 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
     );
 
     private final List<String> currentlyAdvancing = List.of(
-
         "GitOps with ArgoCD",
         "Spring Cloud",
     );
 
     private final String seekingRoles = "Junior/Fresher Java Full Stack Developer";
-
     @Override
     public String motto() {
         return "Build it. Containerize it. Ship it. 🚀";
