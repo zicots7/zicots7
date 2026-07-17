@@ -24,21 +24,21 @@
 /* ╚══════════════════════════════════════════════════════════╝ */
 :root {
   /* Core palette — swap --accent to change the whole look */
-  --bg:          #080c14;
-  --surface:     #0d1420;
-  --surface2:    #121a28;
-  --border:      #1a2840;
-  --border2:     #243652;
+  --bg:          #040116;
+  --surface:     #030a20;
+  --surface2:    #040f22;
+  --border:      #e5ff00;
+  --border2:     #4f00aa;
 
   /* 🎨 ACCENT COLOR — change this one variable to retheme everything */
-  --accent:      #6db33f;   /* Spring Boot green — try #4fa3e0 for blue, #e8b84b for gold */
-  --accent-dim:  #4a8c28;
+  --accent:      #00c1fc;   /* Spring Boot green — try #4fa3e0 for blue, #e8b84b for gold */
+  --accent-dim:  #00ffd5c9;
   --accent-glow: #6db33f20;
 
-  --blue:        #4fa3e0;
+  --blue:        #00c1fc;
   --gold:        #e8b84b;
-  --text:        #c4d4e8;
-  --muted:       #52708f;
+  --text:        #d4e2ca;
+  --muted:       #4fa136;
   --faint:       #1b2840;
 
   --mono:  'JetBrains Mono', monospace;
@@ -369,6 +369,16 @@ nav {
 .edu-uni { font-size: 12.5px; color: var(--muted); margin-bottom: 4px; }
 .edu-period { font-family: var(--mono); font-size: 10px; color: var(--accent); }
 
+.edu-card:hover { 
+  border-color: var(--accent); 
+  transform: translateY(-3px); 
+  transition: all 0.1s ease;
+}
+.edu-card.hi { 
+  background: var(--accent-glow); 
+  border-color: var(--accent); 
+  color: var(--accent); 
+}
 /* ── CERTIFICATIONS ───────────────────────────────── */
 .cert-list { display: flex; flex-direction: column; gap: 0.9rem; }
 .cert-row {
@@ -741,7 +751,7 @@ footer p { font-family: var(--mono); font-size: 10px; color: var(--muted); lette
     <div class="proj-grid">
           <div class="proj-card fi">
         <div class="proj-top">
-          <div class="proj-emoji">🤖</div>
+          <div class="proj-emoji"></div>
           <div class="proj-links">
             <!-- 🎨 CUSTOMIZE: update href to your real GitHub repo URL -->
             <a href="https://github.com/zicots7/FCPT" target="_blank" class="proj-link">GitHub</a>
@@ -752,7 +762,7 @@ footer p { font-family: var(--mono); font-size: 10px; color: var(--muted); lette
           <li>Built a full-stack microservices-based freelance management platform with a decoupled invoice-generation
         service, <strong>JWT-based stateless auth, and RBAC for client/admin access control. </strong>
           <strong>automate freelancing workflows</strong> while eliminating session bottlenecks for independent <strong>horizontal scaling</strong>.</li>
-          <li>Improved performance and deployability: reduced DB load ~80% via Redis Cache-Aside, and shrank Docker
+          <li>Improved performance and deployability: reduced DB load ~80% and fetch response time by ~98% via Redis Cache-Aside, and shrank Docker
 image sizes by 70%/40% using multi-stage builds.</li>
           <li>Implemented polyglot persistence (PostgreSQL + MongoDB), containerized with Docker, orchestrated via
 Kubernetes (Minikube), and automated CI/CD with GitHub Actions to Render</li>
@@ -772,7 +782,7 @@ Kubernetes (Minikube), and automated CI/CD with GitHub Actions to Render</li>
       <!-- ── PROJECT 1 ─────────────────────────────── -->
       <div class="proj-card fi">
         <div class="proj-top">
-          <div class="proj-emoji">🤖</div>
+          <div class="proj-emoji"></div>
           <div class="proj-links">
             <!-- 🎨 CUSTOMIZE: update href to your real GitHub repo URL -->
             <a href="https://github.com/zicots7/Ai-Freelancer-Assistant-" target="_blank" class="proj-link">GitHub</a>
@@ -803,7 +813,7 @@ Kubernetes (Minikube), and automated CI/CD with GitHub Actions to Render</li>
 <!-- ╔═══════════════════════════════════════╗ -->
 <!-- ║  EDUCATION — Update degrees here      ║ -->
 <!-- ╚═══════════════════════════════════════╝ -->
-<section id="education">
+<section id="education" >
   <div class="section-wrap">
     <div class="sec-label">Academic</div>
     <h2 class="sec-title">Education</h2>
