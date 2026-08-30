@@ -49,7 +49,7 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
         "Spring Cloud",
     );
 
-    private final String seekingRoles = "Junior/Fresher Java Full Stack Developer";
+    private final String seekingRoles = "Junior/Fresher Java Full Stack Developer role / Internship";
     @Override
     public String motto() {
         return "Build it. Containerize it. Ship it. 🚀";
