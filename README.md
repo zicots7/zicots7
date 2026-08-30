@@ -173,7 +173,7 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
 <div align="center">
 
 <!--  CUSTOMIZE: Update email and profile URLs -->
-[![Email](https://img.shields.io/badge/Email-trinankursamanta007%40gmail.com-6db33f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trinankursamanta.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-trinankursamanta.dev%40gmail.com-6db33f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trinankursamanta.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-trinankur--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trinankur-s/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-zicots7.github.io-6db33f?style=flat-square)](https://zicots7.github.io/zicots7/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-zico7-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/zico7/)
