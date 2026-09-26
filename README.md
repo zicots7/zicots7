@@ -18,7 +18,7 @@
 ---
 
 ## 👋 About Me
-
+<!-- private final String education   = "MCA final year student @ Kazi Nazrul University (2025–2027)"; -->
 <!--  CUSTOMIZE: Update the Java class block with your details -->
 ```java
 @Component
@@ -27,7 +27,7 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
     private final String name        = "Trinankur Samanta";
     private final String location    = "Bankura, 722101, West Bengal, India 🇮🇳";
     private final String role        = "Java Full Stack Developer";
-    private final String education   = "MCA final year student @ Kazi Nazrul University (2025–2027)";
+    
 
     private final List<String> expertise = List.of(
         "Core Java"
@@ -152,8 +152,8 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
 
 | Degree | Institution | Period |
 |--------|------------|--------|
-| 🎓 Master of Computer Applications (MCA) | Kazi Nazrul University, Asansol, WB | Dec 2025 — May 2027 |
-| 📚 Bachelor of Computer Applications — BCA (Hons.) — 73.81% — | The University of Burdwan, WB | Aug 2021 — Oct 2024 |
+<!--| 🎓 Master of Computer Applications (MCA) | Kazi Nazrul University, Asansol, WB | Dec 2025 — May 2027 |-->
+| 📚 Bachelor of Computer Applications — BCA (Hons.) | The University of Burdwan, WB | Aug 2021 — Oct 2024 |
 
 ---
 
