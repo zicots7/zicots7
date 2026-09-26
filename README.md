@@ -152,9 +152,8 @@ public class TrinankurSamanta implements JavaFullStackDeveloper {
 
 | Degree | Institution | Period |
 |--------|------------|--------|
+| 📚 Bachelor of Computer Applications — BCA (Hons.) | The University of Burdwan, West Bengal | Aug 2021 — Oct 2024 |
 <!--| 🎓 Master of Computer Applications (MCA) | Kazi Nazrul University, Asansol, WB | Dec 2025 — May 2027 |-->
-| 📚 Bachelor of Computer Applications — BCA (Hons.) | The University of Burdwan, WB | Aug 2021 — Oct 2024 |
-
 ---
 
 ## 🏆 Certifications
