@@ -25,7 +25,7 @@
 public class TrinankurSamanta implements JavaFullStackDeveloper {
 
     private final String name        = "Trinankur Samanta";
-    private final String location    = "Bankura, 722101, West Bengal, India 🇮🇳";
+    private final String location    = "West Bengal, India 🇮🇳";
     private final String role        = "Java Full Stack Developer";
     
 
